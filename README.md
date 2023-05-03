@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gonzalosalazar1180@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15ksdSI-8a8pV3P5QcX1P3cu0K7k6jCjI/view](https://drive.google.com/file/d/15ksdSI-8a8pV3P5QcX1P3cu0K7k6jCjI/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-ptEMtEmUhXjeMgDoPSpOpXzYKM9n-08/view](https://drive.google.com/file/d/1-ptEMtEmUhXjeMgDoPSpOpXzYKM9n-08/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
