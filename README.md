@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
-<h3 align="center">Welcome to my GitHub! I am a passionate software developer with a love for technology and programming.</h3>
+<h3 align="center">Welcome to my GitHub! <br/> I am a web developer with experience in React, I have skills in creating responsive web applications and consuming APIs. I like to accept new challenges and learn new things. I am organized and a fast learner. I am looking for opportunities to apply my skills and grow professionally in the software development field.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gonza0624&label=Profile%20views&color=0e75b6&style=flat" alt="gonza0624" /> </p>
 
