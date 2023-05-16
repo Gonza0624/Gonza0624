@@ -10,6 +10,8 @@
 
 <br>
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gonza0624&label=Profile%20views&color=0e75b6&style=flat" alt="gonza0624" /> </p>
 
 - 👨‍💻 here you can see my [web portfolio](https://gonzalosalazar.netlify.app/)
