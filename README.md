@@ -1,5 +1,9 @@
 <h1 align="center"><b>Hi , I'm Gonzalo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub!;"></a>
+</p>
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <h3 align="center">Welcome to my GitHub! I am a web developer with experience in React, I have skills in creating responsive web applications and consuming APIs. I like to accept new challenges and learn new things. I am organized and a fast learner. I am looking for opportunities to apply my skills and grow professionally in the software development field.</h3>
@@ -7,11 +11,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gonza0624&label=Profile%20views&color=0e75b6&style=flat" alt="gonza0624" /> </p>
 
-- 👨‍💻 My web portfolio is available at [https://gonzalosalazar.netlify.app/](https://gonzalosalazar.netlify.app/)
+- 👨‍💻 here you can see my [web portfolio](https://gonzalosalazar.netlify.app/)
 
 - 📫 How to reach me **gonzalosalazar1180@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-ptEMtEmUhXjeMgDoPSpOpXzYKM9n-08/view](https://drive.google.com/file/d/1-ptEMtEmUhXjeMgDoPSpOpXzYKM9n-08/view)
+- 📄 Here you can see [my resume](https://drive.google.com/file/d/1-ptEMtEmUhXjeMgDoPSpOpXzYKM9n-08/view)
 
 - 🌱 I’m currently learning **Angular**
 
