@@ -6,7 +6,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<h3 align="center">I am a web developer with experience in React, I have skills in creating responsive web applications and consuming APIs. I like to accept new challenges and learn new things. I am organized and a fast learner. I am looking for opportunities to apply my skills and grow professionally in the software development field.</h3>
+<h4 align="center">I am a web developer with experience in React, I have skills in creating responsive web applications and consuming APIs. I like to accept new challenges and learn new things. I am organized and a fast learner. I am looking for opportunities to apply my skills and grow professionally in the software development field.</h4>
 
 <br>
 
