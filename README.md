@@ -20,7 +20,7 @@
 
 - 📄 Here you can see [my resume](https://drive.google.com/file/d/1-ptEMtEmUhXjeMgDoPSpOpXzYKM9n-08/view)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Next JS**
 
 <br>
 
