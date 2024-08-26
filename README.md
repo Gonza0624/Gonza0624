@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **gonzalosalazar1180@gmail.com**
 
-- 📄 Here you can see [my resume](https://drive.google.com/file/d/1-ptEMtEmUhXjeMgDoPSpOpXzYKM9n-08/view)
+- 📄 Here you can see [my resume]([https://drive.google.com/file/d/1-ptEMtEmUhXjeMgDoPSpOpXzYKM9n-08/view](https://drive.google.com/file/d/1VIzsN_njkPNttI4QRDIsX_3cWGdsfn87/view))
 
 - 🌱 I’m currently learning **Next JS**
 
