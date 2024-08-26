@@ -18,10 +18,6 @@
 
 - 📫 How to reach me **gonzalosalazar1180@gmail.com**
 
-- 📄 Here you can see [my resume]([https://drive.google.com/file/d/1-ptEMtEmUhXjeMgDoPSpOpXzYKM9n-08/view](https://drive.google.com/file/d/1VIzsN_njkPNttI4QRDIsX_3cWGdsfn87/view))
-
-- 🌱 I’m currently learning **Next JS**
-
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
